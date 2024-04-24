@@ -1,5 +1,15 @@
 # @hey-api/openapi-ts
 
+## 0.42.2
+
+### Patch Changes
+
+- fix: negative numbers in numeric enums ([#470](https://github.com/hey-api/openapi-ts/pull/470))
+
+- fix: handle cases where packages are installed globally ([#471](https://github.com/hey-api/openapi-ts/pull/471))
+
+- fix: handle cases where package.json does not exist ([#471](https://github.com/hey-api/openapi-ts/pull/471))
+
 ## 0.42.1
 
 ### Patch Changes

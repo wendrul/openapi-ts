@@ -1,5 +1,13 @@
 # @hey-api/docs
 
+## 0.5.3
+
+### Patch Changes
+
+- docs: add links to homepage ([#489](https://github.com/hey-api/openapi-ts/pull/489))
+
+- docs: add examples ([#476](https://github.com/hey-api/openapi-ts/pull/476))
+
 ## 0.5.2
 
 ### Patch Changes
